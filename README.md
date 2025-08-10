@@ -6,7 +6,7 @@ Passionate about Deep Learning, Neural Networks, and Machine Learning Models
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-mohtasham-ali-167156287/)  
 [![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/Md_MohtAsham006)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://mohtashamali.github.io/M-Portfolio/)  
-📧 **Email:** [your.email@example.com](mailto:mohdmohtashamali5@gmail.com)
+📧 **Email:** [mohdmohtashamali5@gmail.com](mailto:mohdmohtashamali5@gmail.com)
 
 ---
 
@@ -29,10 +29,8 @@ Passionate about Deep Learning, Neural Networks, and Machine Learning Models
 
 ---
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-![](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=onedark)  
-![](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=gruvbox)  
+# 🏆 GitHub Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Joined2020,Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)
 
 ---
 
@@ -41,6 +39,9 @@ Passionate about Deep Learning, Neural Networks, and Machine Learning Models
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohtashamali&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohtashamali&theme=radical&hide_border=false&layout=compact)  
 ![](https://github-contributor-stats.vercel.app/api?username=mohtashamali&limit=5&theme=radical&combine_all_yearly_contributions=true)  
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=mohtashamali&theme=react-dark)
 
 ---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
