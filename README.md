@@ -39,14 +39,4 @@ Aspiring Innovators about Ai Agents, Neural Networks, and Machine Learning Model
 ![](https://github-readme-stats.vercel.app/api?username=mohtashamali&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohtashamali&theme=algolia&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohtashamali&theme=algolia&hide_border=false&layout=compact)  
-![](https://github-contributor-stats.vercel.app/api?username=mohtashamali&limit=5&theme=algolia&combine_all_yearly_contributions=true)  
 
----
-
-## 📌 Personal GitHub Summary
-- **Total Issues:** 3  
-- **Total Pull Requests:** 1  
-- **Total Stars Earned:** 2  
-- **Most Used Language:** Python 🐍
-
----
