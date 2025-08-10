@@ -38,10 +38,4 @@ Passionate about Deep Learning, Neural Networks, and Machine Learning Models
 ![](https://github-readme-stats.vercel.app/api?username=mohtashamali&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohtashamali&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohtashamali&theme=radical&hide_border=false&layout=compact)  
-![](https://github-contributor-stats.vercel.app/api?username=mohtashamali&limit=5&theme=radical&combine_all_yearly_contributions=true)  
-![](https://github-readme-activity-graph.vercel.app/graph?username=mohtashamali&theme=react-dark)
-
----
-
-## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
