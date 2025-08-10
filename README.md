@@ -1,12 +1,12 @@
 # 💫 About Me:
-I'm a 3rd Year CSE-AIML Undergraduate  
-Passionate about Deep Learning, Neural Networks, and Machine Learning Models  
+I'm a passiaonate aspiring engineer
+Aspiring Innovators about Ai Agents, Neural Networks, and Machine Learning Models  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-mohtasham-ali-167156287/)  
 [![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/Md_MohtAsham006)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://mohtashamali.github.io/M-Portfolio/)  
-📧 **Email:** [mohdmohtashamali5@gmail.com](mailto:mohdmohtashamali5@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohdmohtashamali5@gmail.com)
 
 ---
 
@@ -30,12 +30,22 @@ Passionate about Deep Learning, Neural Networks, and Machine Learning Models
 ---
 
 # 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Joined2020,Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=algolia&no-bg=true&no-frame=true&margin-w=8&column=4&title=Joined2020,Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohtashamali&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohtashamali&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohtashamali&theme=radical&hide_border=false&layout=compact)  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=mohtashamali&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohtashamali&theme=algolia&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohtashamali&theme=algolia&hide_border=false&layout=compact)  
+![](https://github-contributor-stats.vercel.app/api?username=mohtashamali&limit=5&theme=algolia&combine_all_yearly_contributions=true)  
+
+---
+
+## 📌 Personal GitHub Summary
+- **Total Issues:** 3  
+- **Total Pull Requests:** 1  
+- **Total Stars Earned:** 2  
+- **Most Used Language:** Python 🐍
+
+---
