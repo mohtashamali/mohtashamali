@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm a passiaonate aspiring engineer
-Aspiring Innovators about Ai Agents, Neural Networks, and Machine Learning Models  
+Passionate Engineer | Aspiring Innovator in Artificial intelligence and Machine learning technologies
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-mohtasham-ali-167156287/)  
