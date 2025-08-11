@@ -29,7 +29,7 @@ Passionate Engineer | Aspiring Innovator in Artificial intelligence and Machine 
 ---
 
 # 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=algolia&no-bg=true&no-frame=true&margin-w=8&column=4&title=Joined2020,Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=algolia&no-bg=true&no-frame=true&margin-w=8&column=6)
 
 ---
 
