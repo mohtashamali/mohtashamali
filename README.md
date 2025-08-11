@@ -1,6 +1,41 @@
 # 💫 About Me:
 Passionate Engineer | Aspiring Innovator in Artificial intelligence and Machine learning technologies
 
+## 🌐 Connect with Me:
+[📧 Email](mailto:your-email@example.com) | [🌐 Portfolio](https://your-portfolio-link.com)
+
+---
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-8C2F39?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FEAA2D?style=flat&logo=huggingface&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+---
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=6)  
+![](https://github-profile-trophy.vercel.app/?username=mohtashamali&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=6&title=Commits,Repositories,Followers,PullRequest,Stars,Issues)
+
+---
+
+## 📊 GitHub Stats & Summary:
+![](https://github-readme-stats.vercel.app/api?username=mohtashamali&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohtashamali&theme=algolia&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohtashamali&theme=algolia&hide_border=false&layout=compact)  
+![](https://github-contributor-stats.vercel.app/api?username=mohtashamali&limit=5&theme=algolia&combine_all_yearly_contributions=true)  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-mohtasham-ali-167156287/)  
