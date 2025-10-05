@@ -4,7 +4,7 @@ Passionate Engineer | Aspiring Innovator in Artificial intelligence and Machine 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-mohtasham-ali-167156287/)  
 [![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/Md_MohtAsham006)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://mohtashamali.github.io/M-Portfolio/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://mohtashamali.github.io/Mohtasham-portfolio/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohdmohtashamali5@gmail.com)
 
 ---
